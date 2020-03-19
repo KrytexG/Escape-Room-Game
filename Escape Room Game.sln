@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Escape Room Game", "Escape Room Game\Escape Room Game.vbproj", "{6B8212ED-2095-41B6-9E62-9028DB74357F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B8212ED-2095-41B6-9E62-9028DB74357F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B8212ED-2095-41B6-9E62-9028DB74357F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B8212ED-2095-41B6-9E62-9028DB74357F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B8212ED-2095-41B6-9E62-9028DB74357F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B11D3922-FA2A-42B9-880F-97C7C2EF00CE}
+	EndGlobalSection
+EndGlobal
